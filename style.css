@@ -1,0 +1,29 @@
+body{
+    margin: 12px 40px;
+}
+
+.navbar nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    border-bottom: 2px solid #bbb;
+}
+.logo h2 {
+    font-weight: 700;
+    font-family: fantasy;
+
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    padding-left: 45px;
+    color: #bbb;
+}
+.config img{
+    width: 40px;
+    border-radius: 50%;
+}
